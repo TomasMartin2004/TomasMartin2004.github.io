@@ -68,9 +68,7 @@ export default function Home() {
             href="https://www.linkedin.com/in/tomas-martin-02816125b/">
               <AiFillLinkedin />
             </a>
-            <a href="https://www.youtube.com/@tomasmartin9093">
-              <AiFillYoutube />
-            </a>
+            
             <a href="https://github.com/TomasMartin2004/">
               <AiFillGithub />
             </a>
@@ -87,7 +85,7 @@ export default function Home() {
           <div className=" lg:basis-1/2">
             <h3 className="text-4xl py-1 text-cyan-950 font-semibold dark:text-white">About me</h3>
             <p className="justify-self-center	 text-md py-2 leading-8 text-gray-800 dark:text-white">
-              I am a 20-year-old systems analyst with
+              I am a 21-year-old systems analyst with
               solid knowledge in programming and
               software development. I am passionate
               about solving problems and continuously
@@ -160,7 +158,7 @@ export default function Home() {
               </p>
               <a
                 className=" text-teal-600 text-xl py-2 lg:flex justify-center"
-                href=""
+                href="https://youtu.be/v1P2ZHicD9I"
               >
                 <AiOutlineLink />
               </a>
