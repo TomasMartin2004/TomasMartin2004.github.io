@@ -129,7 +129,7 @@ export default function Home() {
               </p>
               <a
                 className="text-amber-600 text-xl py-2 lg:flex justify-center"
-                href="https://www.youtube.com/watch?v=IjnFaRVMz5M"
+                href="https://youtu.be/vFUI6WpXkCw"
               >
                 <AiOutlineLink />
               </a>
