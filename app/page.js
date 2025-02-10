@@ -129,7 +129,7 @@ export default function Home() {
               </p>
               <a
                 className="text-amber-600 text-xl py-2 lg:flex justify-center"
-                href="https://youtu.be/vFUI6WpXkCw"
+                href="https://vimeo.com/manage/videos/1055303421/7e53b376f2"
               >
                 <AiOutlineLink />
               </a>
